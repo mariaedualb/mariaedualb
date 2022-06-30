@@ -3,12 +3,10 @@
  - Minha formação acadêmica se apoia num Curso Técnico em Desenvolvimento de Sistemsa e, atualmente, numa graduação em Gestão de TI. Além disso, estudo também de forma independente através de cursos e livros abordando noções como Desenv. Full Stack, Metodologias Ágeis, Marketing e UI/UX Design – noções das quais coleciono certificados. Uma das minhas metas profissionais é um dia tornar-me uma Software Product Manager.
 <br>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/mariaedualb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaedualb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedualb&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaedualb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedualb&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<br>
-<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Madu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Madu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
