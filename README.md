@@ -1,19 +1,21 @@
-### Olá! Eu sou a Maria Eduarda 👋
-
+### Olá! Eu sou a Maria Eduarda.👋
+<br>
+ - Minha formação acadêmica se apoia num Curso Técnico em Desenvolvimento de Sistemsa e, atualmente, numa graduação em Gestão de TI. Além disso, estudo também de forma independente através de cursos e livros abordando noções como Desenv. Full Stack, Metodologias Ágeis, Marketing e UI/UX Design – noções das quais coleciono certificados. Uma das minhas metas profissionais é um dia tornar-me uma Software Product Manager.
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/mariaedualb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaedualb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedualb&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaedualb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedualb&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+<br>
+<br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Madu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Madu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Madu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Madu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Madu-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Madu-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Madu-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img align="center" alt="Madu-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-  
