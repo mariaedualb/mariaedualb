@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Maria Eduarda 👋
 <br>
- - Minha formação acadêmica se apoia num Curso Técnico em Desenvolvimento de Sistemsa e, atualmente, numa graduação em Gestão de TI. Além disso, estudo também de forma independente cursos e livros sobre Desenvolvimento Full Stack, Metodologias Ágeis, Marketing e UI/UX Design. Uma das minhas metas profissionais é um dia tornar-me Software Product Manager.
+ - Minha formação acadêmica se apoia num Curso Técnico em Desenvolvimento de Sistemas e, atualmente, numa graduação em Gestão de TI. Além disso, estudo também de forma independente cursos e livros sobre Desenvolvimento Full Stack, Metodologias Ágeis, Marketing e UI/UX Design. Uma das minhas metas profissionais é um dia tornar-me Software Product Manager.
 <br>
 <br>
 <div align="left">
