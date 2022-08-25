@@ -1,7 +1,4 @@
-## Olá! Eu sou a Maria Eduarda 👋
-<br>
- * Minha formação acadêmica se apoia num Curso Técnico em Desenvolvimento de Sistemas e, atualmente, numa graduação em Gestão de TI. Além disso, estudo também de forma independente cursos e livros sobre Desenvolvimento Front-End, Metodologias Ágeis, Marketing e UI Design.
-<br>
+## Oioi, eu sou a Maria Eduarda :D
 <br>
 <div align="left">
   <a href="https://github.com/mariaedualb">
