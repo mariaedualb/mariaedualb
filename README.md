@@ -1,4 +1,4 @@
-## Oooi! Eu sou a Maria Eduarda :)
+## Hi! I'm Maria Eduarda :)
 <br>
 <div align="left">
   <a href="https://github.com/mariaedualb">
